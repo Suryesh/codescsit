@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Popins:wght@100;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Popins', sans-serif;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+a{
+    color: #000;
+    text-decoration: none;
+}
+
+.navbar{
+    padding-left: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.services, .p, .card-text{
+    font-size: 20px;
+}
+
+.card-text, .a, i{
+    font-size: 20px;
+}
+
+.row, .col-md, .btn{
+    margin-left: px;
+}
+
+.social-icons a{
+    text-decoration: none;
+    font-size: 5px;
+    margin-right: 11px;
+    margin-left: 0px;
+    display: inline-block;
+    transition: transform 0.5s;
+}
+
+.social-icons a:hover{
+    color: #ff004f;
+    transform: translateY(-5px);
+}
+
+.list-unstyled li a{
+    text-decoration: none;
+}
+.about, .btn-primary{
+    border-radius: 15px;
+}
+
+
+@media (max-width: 1000px)
+{
+    .social-icons, .p-5 a i{
+        font-size: 30px;
+        padding: 0rem;
+        margin-left: -1px;
+    }
+
+    .about, img{
+        margin-right: 15px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
