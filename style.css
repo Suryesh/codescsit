@@ -5,19 +5,11 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: 'Popins', sans-serif;
-    padding-left: 5px;
-    padding-right: 5px;
 }
 
 a{
     color: #000;
     text-decoration: none;
-}
-
-.navbar{
-    padding-left: 5px;
-    margin-left: 10px;
-    margin-right: 10px;
 }
 
 .services, .p, .card-text{
