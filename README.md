@@ -1,2 +1,3 @@
-# OIBSIP-Level-1-Task-1
-Educational Landing Page
+CODES CS&IT
+
+Our Educational Webpage
